@@ -56,11 +56,3 @@ Selecting the right framework depends on your **industry, regulatory requirement
 - 🔗 [SOC 2 Compliance Guide](https://www.aicpa-cima.com)  
 - 🔗 [PCI-DSS Compliance Checklist](https://www.pcisecuritystandards.org)  
 
----
-
-## 🚀 Next Steps  
-
-Now that the **framework comparison** and **implementation guide** are in place, we can:  
-✅ Add **security policy templates** 📜 (Access Control, Incident Response, etc.)  
-✅ Build an **audit preparation checklist** ✅  
-✅ Explore **automating compliance tasks** using Python 🤖  
