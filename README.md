@@ -32,3 +32,7 @@ Welcome! This repository is dedicated to **Governance, Risk, and Compliance**, p
 - *Security Policy Templates* 📄
 - *Frameworks to Security Controls* 🔗
 - *Automating Compliance Tasks* with Python 🤖
+
+# 📢 Disclamer 
+
+This repository offers resources for GRC, but it’s not legal advice. Always consult professionals for specific guidance.
