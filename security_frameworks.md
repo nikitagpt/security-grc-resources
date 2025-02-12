@@ -16,12 +16,12 @@
 ## 📌 How to Choose the Right Security Framework
 Selecting the right framework depends on your **industry, regulatory requirements, and business goals**. Here’s a quick guide:
 
-- **If you're a SaaS company →** **SOC 2** is crucial for proving security & privacy to customers.  
-- **If you're a global enterprise →** **ISO 27001** ensures a structured approach to information security.  
-- **If you work with U.S. government agencies →** **FedRAMP** compliance is mandatory for cloud services.  
-- **If you handle credit card payments →** **PCI-DSS** is required for payment security.  
-- **If you're in healthcare →** **HIPAA** compliance protects patient data.  
-- **If you're looking for general cybersecurity best practices →** **NIST CSF** and **CIS Controls** are great starting points.  
+- **SaaS company →** **SOC 2** is crucial for proving security & privacy to customers.  
+- **Global enterprise →** **ISO 27001** ensures a structured approach to information security.  
+- **U.S. government agencies →** **FedRAMP** compliance is mandatory for cloud services.  
+- **Handling credit card payments →** **PCI-DSS** is required for payment security.  
+- **Healthcare →** **HIPAA** compliance protects patient data.  
+- **General cybersecurity best practices →** **NIST CSF** and **CIS Controls** are great starting points.  
 
 ---
 
