@@ -1,6 +1,6 @@
 # 🔐 Security and GRC Resources 
 
-Welcome! This repository is dedicated to **Governance, Risk, and Compliance** 
+Welcome! This repository is dedicated to **Governance, Risk, and Compliance**, providing key resources to manage security and compliance effectively.
 
 # 📌 What you'll find here
 
@@ -29,8 +29,6 @@ Welcome! This repository is dedicated to **Governance, Risk, and Compliance**
 
 ## 🚀 Future Plans
 
-- Upload more **Security Policy Templates** 📄
-- Map **Frameworks to Security Controls** 🔗
-- Explore **Automating Compliance Tasks** with Python 🤖
-
-## 🔍 Key Topics in This Repo
+- *Security Policy Templates* 📄
+- *Frameworks to Security Controls* 🔗
+- *Automating Compliance Tasks* with Python 🤖
